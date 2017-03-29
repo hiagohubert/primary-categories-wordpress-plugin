@@ -34,7 +34,7 @@ class PrimaryCategoryBox
 	}
 
 	/**
-	 * Return a html select with all the categories, and the current selected option
+	 * print a select with all the categories, and the current selected option
 	 */
 	public function fillMetaBoxContent(){
 		global $post;

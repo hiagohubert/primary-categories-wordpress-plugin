@@ -11,7 +11,6 @@ class PrimaryCategoryShortcode {
 	 * Creates a shortcode to return posts filtering by primary categories
 	 * @param array $atts
 	 *
-	 * @return mixed
 	 */
 	public function createShortcode($atts=[]){
 

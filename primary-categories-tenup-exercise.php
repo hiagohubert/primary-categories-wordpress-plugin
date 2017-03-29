@@ -6,11 +6,11 @@ if (! defined('ABSPATH')) {
 
 /*
  * Plugin Name: Primary Categories Exercise for 10up
- * Description: This is a exercise
- * Plugin URI: http://foobar.com/
+ * Description: This is a plugin created for a exercise to 10up
+ * Plugin URI: https://github.com/hiagohubert/primary-categories-wordpress-plugin
  * Author: Hiago Hubert
  * Version: 1.0.0
- * Author URI: http://foobar.com/
+ * Author URI: https://github.com/hiagohubert
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  *
